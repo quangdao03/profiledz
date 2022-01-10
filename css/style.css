@@ -1349,6 +1349,9 @@ select.portfolio-filter-mobile {
 /*                      FACTS                              
 /*=================================================================*/
 
+.fact-item{
+    margin-top:60px;
+}
 .fact-item .details {
     margin-left: 60px;
 }
@@ -2350,7 +2353,7 @@ body.dark .blog-page-section .blog-single {
 
 .progress {
     height: 7px;
-    margin-bottom: 0;
+    margin-bottom: 10px;
     overflow: hidden;
     background-color: #F1F1F1;
     border-radius: 15px;
